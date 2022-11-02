@@ -1,5 +1,6 @@
-let name = "john";
-let age = 21;
+let name = "Trenton";
+let age = 28;
+let favfood =Tamales;
 
 const interestRate = 2.5;
 
@@ -15,3 +16,4 @@ console.log(interestRate);
 
 
  */
+// This is my single line comment
