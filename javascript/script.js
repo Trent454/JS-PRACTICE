@@ -16,5 +16,12 @@ let word = "supercalifragilisticexpicewcious"
 console.log (word.length)
 let car = " ROYGEBIV"
 
+let firstname = prompt("First name")
+let lastname = prompt("last name")
+console.log(firstname)
+alert(lastname)
 
+let birthday = prompt("birthday")
+confirm(birthday)
+alert(birthday)
 
